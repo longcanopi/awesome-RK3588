@@ -57,7 +57,7 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 2. [Fire-Fly ↗](https://www.t-firefly.com/doc/download/164.html) - A development board based on the RK3588 chip, providing complete hardware interfaces and software support.
 3. [Orange Pi ↗](http://www.orangepi.cn/) - Orange Pi.
 4. [YourLand Laptop ↗](https://nanocode.cn/#/yl/) - A laptop based on RK3588 and Linux, designed for sw-developers with rich dev-tools and JTAG debugging support.
-
+5. [https://radxa.com/products/rock5 ↗] - Radxa - RK3588 SBC solutions.
 ## Documentation
 
 1. [RK3588 Datasheet ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf) - The official datasheet for the RK3588.
