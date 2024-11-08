@@ -60,9 +60,9 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 
 1. [RK3588数据手册 ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf) - RK3588 的官方数据手册。
 2. [RKNN用户指南 ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/doc) - Rockchip NPU 接口的官方用户指南。
-3. [iTOP-RK3588开发板规格书 ↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - 此款开发板的各项详细参数
-4. [Radxa ROCK 5 系列文档 ↗](https://docs.radxa.com/rock5) - 浏览体验极佳的在线文档
-5. [LubanCat ↗](https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html) - 详细的中文文档, 除板卡本身资料外, 还整合了 RK3588 常用工具链的用法等
+3. [iTOP-RK3588开发板规格书 ↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - 此款开发板的各项详细参数。
+4. [Radxa ROCK 5 系列文档 ↗](https://docs.radxa.com/rock5) - 浏览体验极佳的在线文档。
+5. [LubanCat ↗](https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html) - 详细的中文文档, 除板卡本身资料外, 还整合了 RK3588 常用工具链的用法等。
 
 ## 工具
 
@@ -74,7 +74,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 
 ## 论坛
 
-1. [iTOP-RK3588↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55) - 北京迅为 iTOP-RK3588 开发板技术讨论专区
+1. [iTOP-RK3588↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55) - 北京迅为 iTOP-RK3588 开发板技术讨论专区。
 
 ---
 
