@@ -51,14 +51,18 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 
 1. [ITOP ↗](http://www.topeetboard.com/sydymfl/Product/iTOP-3588.html) - 基于 RK3588 芯片的开发板，提供完整的硬件接口和软件支持。
 2. [Fire-Fly ↗](https://www.t-firefly.com/doc/download/164.html) - 基于 RK3588 芯片的开发板，提供完整的硬件接口和软件支持。
-3. [Orange Pi ↗](http://www.orangepi.cn/) - Orange Pi。
+3. [Orange Pi ↗](http://www.orangepi.cn/) - 香橙派5 系列开发板, 在 RK3588 开发板中性价比较高。
 4. [YourLand Laptop ↗](https://nanocode.cn/#/yl/) - 基于RK3588和Linux的笔记本电脑，专为软件开发人员设计，具有丰富的开发工具和JTAG调试支持。
+5. [Radxa ↗](https://radxa.com/products/rock5) - 瑞莎的 RK3588 单板计算机 (SBC) 解决方案。
+6. [LubanCat](https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html) - 来自野火的 鲁班猫 系列开发板, 中文资料比较完善。
 
 ## 文档
 
 1. [RK3588数据手册 ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf) - RK3588 的官方数据手册。
 2. [RKNN用户指南 ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/doc) - Rockchip NPU 接口的官方用户指南。
-3. [iTOP-RK3588开发板规格书↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - 此款开发板的各项详细参数
+3. [iTOP-RK3588开发板规格书 ↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - 此款开发板的各项详细参数。
+4. [Radxa ROCK 5 系列文档 ↗](https://docs.radxa.com/rock5) - 浏览体验极佳的在线文档。
+5. [LubanCat ↗](https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html) - 详细的中文文档, 除板卡本身资料外, 还整合了 RK3588 常用工具链的用法等。
 
 ## 工具
 
@@ -70,7 +74,7 @@ RK3588 是由 [Rockchip ↗](https://www.rock-chips.com/a/en/)发布的旗舰 8K
 
 ## 论坛
 
-1. [iTOP-RK3588↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55) - 北京迅为 iTOP-RK3588 开发板技术讨论专区
+1. [iTOP-RK3588↗](http://bbs.topeetboard.com/forum.php?mod=forumdisplay&fid=55) - 北京迅为 iTOP-RK3588 开发板技术讨论专区。
 
 ---
 

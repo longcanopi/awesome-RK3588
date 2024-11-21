@@ -55,14 +55,19 @@ RK3588 is the flagship 8K SoC chip released by [Rockchip ↗](https://www.rock-c
 
 1. [ITOP ↗](http://www.topeetboard.com/sydymfl/Product/iTOP-3588.html) - A development board based on the RK3588 chip, providing complete hardware interfaces and software support.
 2. [Fire-Fly ↗](https://www.t-firefly.com/doc/download/164.html) - A development board based on the RK3588 chip, providing complete hardware interfaces and software support.
-3. [Orange Pi ↗](http://www.orangepi.cn/) - Orange Pi.
+3. [Orange Pi ↗](http://www.orangepi.org/) - Orange Pi 5 series development board has relatively high cost performance among RK3588 development boards.
 4. [YourLand Laptop ↗](https://nanocode.cn/#/yl/) - A laptop based on RK3588 and Linux, designed for sw-developers with rich dev-tools and JTAG debugging support.
 5. [https://radxa.com/products/rock5 ↗] - Radxa - RK3588 SBC solutions.
+6. [LubanCat](https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html) From EmbedFire, providing complete hardware interfaces and software support (Chinese).
+
 ## Documentation
 
 1. [RK3588 Datasheet ↗](https://www.rock-chips.com/uploads/pdf/2022.8.26/191/RK3588%20Brief%20Datasheet.pdf) - The official datasheet for the RK3588.
 2. [RKNN User Guide ↗](https://github.com/rockchip-linux/rknn-toolkit2/tree/master/doc) - The official user guide for the Rockchip NPU interface.
 3. [iTOP-RK3588 Development Board Specification↗](http://topeetboard.com/sydymfl/dwon/iTOP3588%E5%BC%80%E5%8F%91%E6%9D%BF%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) - Detailed parameters of this development board.
+4. [Radxa ROCK 5 Docs ↗](https://docs.radxa.com/rock5) - Provide web documents with excellent browsing experience.
+5. [LubanCat ↗](https://doc.embedfire.com/products/link/zh/latest/linux/ebf_lubancat.html) - Detailed documentation, in addition to the information of the board card itself, also integrates the usage methods of common toolchains such as RK3588 (Chinese).
+
 
 ## Tools
 
